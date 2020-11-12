@@ -1,6 +1,6 @@
 name: noripple_overscroll
 description: A package that helps developers cancel ripples caused by excessive Listview scrolling.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/CNMathon/noripple_overscroll
 
 environment:

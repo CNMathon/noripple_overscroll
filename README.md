@@ -21,4 +21,4 @@ class _NorippleDemo extends StatelessWidget {
 }
 ```
 
-Yes, it's that simple! Now, start experiencing it!
+Yes, it's so easy like this! Now, start experiencing it!
